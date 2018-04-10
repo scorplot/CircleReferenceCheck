@@ -1,0 +1,16 @@
+PODS:
+  - CircleReferenceCheck (0.0.1)
+
+DEPENDENCIES:
+  - CircleReferenceCheck (from `../`)
+
+EXTERNAL SOURCES:
+  CircleReferenceCheck:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CircleReferenceCheck: 6d1c7d92ce5c9d174049061d5f90aa3deee6278a
+
+PODFILE CHECKSUM: 1dab8e4687f7a237643d110ec97cbd9c872a6247
+
+COCOAPODS: 1.4.0.rc.1
